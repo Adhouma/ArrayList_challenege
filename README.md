@@ -23,4 +23,4 @@
 # Test the challenge
 - Download or clone the project
 - Import the project in your Favorite IDE (Eclipse, IntelliJ, NetBeans ...)
-- Locate the Main class (Main.class) and right > Rus us > Java application
+- Locate the Main class (Main.class) and right click > Run us > Java application
