@@ -19,3 +19,8 @@
 	 * e.g. no ints, no .get(i) etc
 	 * MobilePhone should do everything with Contact objects only.
 	 */
+
+# Test the challenge
+- Download or clone the project
+- Import the project in your Favorite IDE (Eclipse, IntelliJ, NetBeans ...)
+- Locate the Main class (Main.class) and right > Rus us > Java application
